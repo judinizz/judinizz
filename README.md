@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @judinizz
 - 👀 I’m interested in back-end software development, data science and machine learning
-- 🌱 I’m currently learning new languages and concepts such as ML
+- 🌱 I’m currently learning more about software architecture and DevOps
 - 💞️ I’m looking to collaborate on innovtive projects
 - 📫 How to reach me: juliadinizrodrigues@gmail.com
 - 😄 Pronouns: She/her
